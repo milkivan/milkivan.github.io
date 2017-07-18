@@ -895,7 +895,7 @@ input[type="submit"] {
 /*Треугольники, работают только на 1 разрешении экрана*/
 .new_products .new {
 	position: absolute;
-	top: 769px;
+	top: 760px;
 	right: 966px;
 	border: 23px solid transparent;
 	border-top: 23px solid #e24602;
@@ -904,7 +904,7 @@ input[type="submit"] {
 
 .new p {
 	position: absolute;
-	top: -13px;
+	top: -15px;
 	right: -19px;
 	text-transform: uppercase;
 	font-size: 9px;
@@ -914,7 +914,7 @@ input[type="submit"] {
 
 .new_products .top {
 	position: absolute;
-	top: 769px;
+	top: 760px;
 	right: 666px;
 	border: 23px solid transparent;
 	border-top: 23px solid #faef03;;
