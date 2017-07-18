@@ -38,7 +38,6 @@
 	src: url(fonts/Roboto-Black.ttf)
 }
 
-
 * {
 	margin: 0;
 	padding: 0;
@@ -153,7 +152,6 @@
 	background-color:  #f8f8f8;
 }
 
-
 /*Оформление HEADER*/
 /*Логотип*/
 
@@ -176,7 +174,7 @@
   width: 120px;
   float: right;
   margin-top: 50px;
-  margin-right: 239px;
+  margin-right: 231px;
   display: flex;
   justify-content: space-between;
 }
@@ -241,7 +239,7 @@
 	font-weight: 700;
 	line-height: 30px; 
 	text-align: left;
-	margin-top: 82px;
+	margin-top: 79px;
 	margin-left: 25px;
 	text-transform: uppercase;
 }
@@ -250,10 +248,10 @@
 	font-family: 'Raleway-Bold', 'arial', sans-serif;
 	color: #333333;
 	font-size: 18px; 
-	font-weight: 600;
+	font-weight: 700;
 	line-height: 14px;
 	text-align: left;
-	padding: 24px 30px 82px 22px;
+	padding: 20px 25px 82px 22px;
 	font-style: italic;
 }
 
@@ -268,7 +266,7 @@
 }
 
 .Super_easy_text {
-	font-family: 'Raleway', 'arial', sans-serif;
+	font-family: 'Raleway-Regular', 'arial', sans-serif;
 	color:  #fff51f;
 	font-size: 18px;
 	font-weight: 400;
@@ -287,7 +285,7 @@
 	text-align: center;
 	background-color: yellow;
 	line-height: 49px;
-	margin: 15px 0 0 5px;
+	margin: 62px 0 0 3px;
 	text-decoration: none;
 	font-weight: 800;
 }
@@ -305,7 +303,6 @@
 	margin: 129px 19px 73px 142px;
 }
 
-
 /*Бокс с продуктами*/
 
 .text_new_products {
@@ -317,7 +314,7 @@
 	text-align: left;
 	text-transform: uppercase;
 	margin-top: 31px;
-	margin-bottom: 31px;
+	margin-bottom: 23px;
 	margin-left: 25px;
 }
 
@@ -345,7 +342,6 @@
 	font-style: italic;
 	text-align: left;
 	text-transform: uppercase;
-	margin-top: 31px;
 	margin-bottom: 31px;
 	margin-left: 25px;
 }
@@ -353,7 +349,7 @@
 .top_products {
 	width: 870px;
 	height: 400px;
-	margin-top: 101px;
+	margin-top: 65px;
 	background-color:  #f8f8f8;
 }
 
@@ -384,7 +380,7 @@
 	text-align: left;
 	text-transform: uppercase;
 	margin-top: 31px;
-	margin-bottom: 31px;
+	margin-bottom: 26px;
 	margin-left: 25px;
 }
 
@@ -405,9 +401,9 @@
 
 .img_products_box {
 	width: 250px;
-	height: 235px;
+	height: 228px;
 	display: block;
-	margin: 10px 10px 24px 10px;
+	margin: 10px 10px 10px 10px;
 	background-color:  #eaeaea;
 }
 
@@ -423,6 +419,10 @@
 	line-height: 18.012px; 
 	text-align: left;
 	margin-left: 26px;
+}
+
+.first {
+	margin-top: 14px;
 }
 
 .new_pr_box_price {
@@ -457,6 +457,7 @@
 	text-transform: uppercase;
 	display: block;
 	float: left;
+	margin-top: 14px;
 	margin-left: 24px;
 	width: 135px;
 	height: 28px;
@@ -472,6 +473,7 @@
 	display: block;
 	float: right;
 	margin-right: 14px;
+	margin-top: 14px;
 }
 
 .top_pr_box_sale {
@@ -614,7 +616,7 @@
 	width: 113px;
 	height: 117px;
 	margin-bottom: 64px;
-	margin-left: 114px;
+	margin-left: 102px;
 	list-style-type: none;
 }
 
@@ -823,7 +825,7 @@ input[type="submit"] {
 
 .footer_social_icon{
 	float: right;
-	width: 400px;
+	width: 370px;
 }
 
 .footer_socail_icon_fb {
@@ -883,7 +885,7 @@ input[type="submit"] {
 .footer_socail_icon_rrs {
 	display: block;
 	float: left;
-	margin: 20px 186px 14px 3px;
+	margin: 20px 0px 14px 3px;
 	width: 15px;
 	height: 15px;
 	background-image: url(img/header_icon/rss_icon.png);
